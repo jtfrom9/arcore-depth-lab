@@ -1,0 +1,9 @@
+{
+    "name": "com.jtfrom9.fork.arcore-depth-lab",
+    "displayName": "ARCore Depth Lab fork",
+    "version": "1.0.0",
+    "unity": "2019.4",
+    "description": "Depth API Samples for Unity",
+    "dependencies": {
+    }
+}
